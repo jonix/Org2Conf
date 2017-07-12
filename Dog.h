@@ -4,7 +4,7 @@
 class Dog {
  public:
   void speak();
-  void sit(int numSeconds);
+  void sit(int numSeconds, bool impatient);
 };
 
 #endif // __DOG_H__
