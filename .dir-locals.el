@@ -1,1 +1,1 @@
-((nil . ((cmake-ide-build-dir . "/home/jonix/Projects/Org2conf/Build"))))
+((nil . ((cmake-ide-build-dir . "~/Projects/Org2Conf/Build"))))
